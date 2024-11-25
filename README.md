@@ -21,12 +21,12 @@ Welcome to my GitHub! I'm a **Graduate Student in Artificial Intelligence and Da
 ## 💻 Technologies & Tools
 
 ### Programming
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 
 ### Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) 
@@ -46,6 +46,12 @@ Welcome to my GitHub! I'm a **Graduate Student in Artificial Intelligence and Da
 ---
 
 ## 📈 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rmukhtarov&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=dark&hide_border=true" alt="Rustam's GitHub Stats" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmukhtarov&layout=compact&hide_title=true" alt="Rustam's Top Languages"/>
+</div>
 <div align="center">
     ![](https://github-readme-stats.vercel.app/api?username=Rustam751&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
     ![](https://github-readme-streak-stats.herokuapp.com/?user=Rustam751&theme=dark&hide_border=true)<br/>
