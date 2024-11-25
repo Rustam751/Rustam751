@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a **Graduate Student in Artificial Intelligence and Da
 - 💼 **Experience**: 3 years as an AI Team Lead at RevSolz Corp., specializing in data science projects.
 - 📚 **Research Interests**: Machine Learning, Computer Vision, and Robotics.
 - 🌍 **Languages**: Fluent in English, Russian, and Turkish.
-- 🎨 **Hobbies**: Playing piano and guitar, swimming, basketball, and exploring wine culture.
+- 🎨 **Hobbies**: Playing piano and guitar, swimming, and playing basketball.
 
 ---
 
@@ -52,6 +52,7 @@ Welcome to my GitHub! I'm a **Graduate Student in Artificial Intelligence and Da
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rustam751&theme=dark&hide_border=true" alt="Rustam's Top Languages"/>
 </div>
+
 ---
 
 ## 🤝 Let's Connect!
