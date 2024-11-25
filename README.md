@@ -48,15 +48,15 @@ Welcome to my GitHub! I'm a **Graduate Student in Artificial Intelligence and Da
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img src="[https://github-readme-stats.vercel.app/api?username=Rustam751&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Rustam's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Rustam751&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Rustam's GitHub Stats" />
     <br>
-    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Rustam751&theme=dark&hide_border=true" alt="Rustam's Top Languages"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rustam751&theme=dark&hide_border=true" alt="Rustam's Top Languages"/>
 </div>
 ---
 
 ## 🤝 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rustam-mukhtarov)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/russmukhtar/)
 - 📧 Email: [rmukhtarov@sfsu.edu](mailto:rmukhtarov@sfsu.edu)
 
 ---
