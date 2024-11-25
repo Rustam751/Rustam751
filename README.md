@@ -6,10 +6,6 @@
 
 Welcome to my GitHub! I'm a **Graduate Student in Artificial Intelligence and Data Science** at **San Francisco State University**, passionate about creating innovative solutions in AI, machine learning, and robotics. I enjoy blending theoretical knowledge with practical applications to tackle real-world problems.
 
----
-
-## 🌟 About Me
-
 - 🔬 **Background**: B.Sc. in Mechatronics Engineering from Yıldız Technical University.
 - 💼 **Experience**: 3 years as an AI Team Lead at RevSolz Corp., specializing in data science projects.
 - 📚 **Research Interests**: Machine Learning, Computer Vision, and Robotics.
@@ -55,9 +51,11 @@ Welcome to my GitHub! I'm a **Graduate Student in Artificial Intelligence and Da
 </div>
 
 ---
--->
+
 
 ## 🤝 Let's Connect!
+-->
+---
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/russmukhtar/)
 - 📧 Email: [rmukhtarov@sfsu.edu](mailto:rmukhtarov@sfsu.edu)
