@@ -52,11 +52,6 @@ Welcome to my GitHub! I'm a **Graduate Student in Artificial Intelligence and Da
     <br>
     <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Rustam751&layout=compact&hide_title=true](https://github-readme-streak-stats.herokuapp.com/?user=Rustam751&theme=dark&hide_border=true)" alt="Rustam's Top Languages"/>
 </div>
-<div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=Rustam751&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=Rustam751&theme=dark&hide_border=true)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rustam751&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-</div>
 ---
 
 ## 🤝 Let's Connect!
