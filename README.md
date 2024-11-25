@@ -62,5 +62,5 @@ Welcome to my GitHub! I'm a **Graduate Student in Artificial Intelligence and Da
 
 ---
 
-_"The future belongs to those who believe in the beauty of their dreams." – Eleanor Roosevelt_
+_"Code is like humor. When you have to explain it, it’s bad." – Cory House_
 
