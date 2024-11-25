@@ -43,6 +43,7 @@ Welcome to my GitHub! I'm a **Graduate Student in Artificial Intelligence and Da
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) 
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23E34F26.svg?style=plastic&logo=mathworks&logoColor=white)
 
+<!--
 ---
 
 ## 📈 GitHub Stats
@@ -54,6 +55,7 @@ Welcome to my GitHub! I'm a **Graduate Student in Artificial Intelligence and Da
 </div>
 
 ---
+-->
 
 ## 🤝 Let's Connect!
 
