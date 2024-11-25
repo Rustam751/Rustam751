@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm a **Graduate Student in Artificial Intelligence and Da
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rmukhtarov&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Rustam751/Rustam751/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/Rustam751/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 ---
 
