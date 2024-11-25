@@ -1,5 +1,11 @@
 # Hi there, I'm Rustam Mukhtarov 👋
 
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
+
 Welcome to my GitHub! I'm a **Graduate Student in Artificial Intelligence and Data Science** at **San Francisco State University**, passionate about creating innovative solutions in AI, machine learning, and robotics. I enjoy blending theoretical knowledge with practical applications to tackle real-world problems.
 
 ---
