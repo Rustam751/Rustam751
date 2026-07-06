@@ -61,16 +61,6 @@ Repository: https://github.com/mucahitkalebasi/tennis-line-detection-img-process
 
 ---
 
-### Transformer Sentiment Analysis
-Custom transformer-based sentiment analysis project using notebook experiments for preprocessing, encoder design, and classification.
-
-**Stack:** Python, transformer encoder, NLP, sentiment classification  
-**Focus:** Deep learning, NLP, model experimentation  
-
-Repository: https://github.com/gebriell/kaggle_transformer
-
----
-
 ## Technical Skills
 
 **Machine Learning / AI:** PyTorch, TensorFlow/Keras, Scikit-learn, CNNs, Transfer Learning, MONAI, YOLO, OpenCV  
