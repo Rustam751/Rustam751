@@ -4,63 +4,98 @@
     </h1>
 </div>
 
-Welcome to my GitHub! I'm a **Graduate Student in Artificial Intelligence and Data Science** at **San Francisco State University**, passionate about creating innovative solutions in AI, machine learning, and robotics. I enjoy blending theoretical knowledge with practical applications to tackle real-world problems.
+# Rustam (Russ) Mukhtarov
 
-- 🔬 **Background**: B.Sc. in Mechatronics Engineering from Yıldız Technical University.
-- 💼 **Experience**: 3 years as an AI Team Lead at RevSolz Corp., specializing in data science projects.
-- 📚 **Research Interests**: Machine Learning, Computer Vision, and Robotics.
-- 🌍 **Languages**: Fluent in English, Russian, and Turkish.
-- 🎨 **Hobbies**: Playing piano and guitar, swimming, and playing basketball.
+**Applied ML / Computer Vision / AI Product Engineer**  
+M.S. Artificial Intelligence & Data Science @ San Francisco State University  
+San Francisco, CA
 
----
-
-## 💻 Technologies & Tools
-
-### Programming
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-
-### Machine Learning & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) 
-![MATLAB](https://img.shields.io/badge/MATLAB-%23E34F26.svg?style=plastic&logo=mathworks&logoColor=white)
-
-<!--
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rustam751&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Rustam's GitHub Stats" />
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rustam751&theme=dark&hide_border=true" alt="Rustam's Top Languages"/>
-</div>
+I build applied AI systems across **medical imaging, computer vision, UAV robotics, and human-AI product prototypes**. My work combines model development, data preprocessing, evaluation, and product-focused engineering.
 
 ---
 
+## Featured Projects
 
-## 🤝 Let's Connect!
--->
+### Alzheimer's PET Classification
+Deep learning pipeline for classifying Alzheimer's disease stages from Amyloid PET images using transfer learning.
+
+**Models:** VGG16, InceptionV3, ResNet50  
+**Focus:** Medical imaging, CNNs, transfer learning, preprocessing, evaluation  
+**Results:** VGG16 and InceptionV3 achieved above 95% test accuracy in the project setup  
+**My contribution:** Model experimentation, preprocessing workflow, evaluation, and result analysis  
+
+Repository: https://github.com/Abdoul1996/Alzheimer_Classification
+
 ---
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/russmukhtar/)
-- 📧 Email: [rmukhtarov@sfsu.edu](mailto:rmukhtarov@sfsu.edu)
+### DroneHunter / UAV Detection
+Computer vision and tracking project connected to UAV competition work, involving detection, tracking, and real-time robotic vision.
+
+**Stack:** YOLO, OpenCV, object tracking, UAV systems, simulation/field testing  
+**Focus:** Real-time computer vision, drone detection, robotics integration  
+**My contribution:** UAV detection workflow, testing, model/inference support, and competition implementation  
+
+Repository: https://github.com/keremtatlici/dronehunter_teknofest2023
 
 ---
 
-_"Code is like humor. When you have to explain it, it’s bad." – Cory House_
+### DriveShare — Parking Marketplace Prototype
+Peer-to-peer driveway rental platform where homeowners can list unused driveway space and drivers can reserve affordable parking.
 
+**Stack:** Next.js, React, Tailwind, PostgreSQL, UX research  
+**Focus:** Product engineering, full-stack prototype, HCI, user flows  
+**My contribution:** Product concept, UI/UX flows, web prototype, research pages, and driver/homeowner experience design  
+
+Repository: https://github.com/Rustam751/driveshare-app  
+Live Demo: https://driveshare-app.vercel.app/
+
+---
+
+### Tennis Court Line Detection
+Image-processing pipeline for detecting tennis court lines from match images.
+
+**Stack:** Python, OpenCV, image processing  
+**Focus:** Line detection, preprocessing, evaluation, computer vision fundamentals  
+
+Repository: https://github.com/mucahitkalebasi/tennis-line-detection-img-processing
+
+---
+
+### Transformer Sentiment Analysis
+Custom transformer-based sentiment analysis project using notebook experiments for preprocessing, encoder design, and classification.
+
+**Stack:** Python, transformer encoder, NLP, sentiment classification  
+**Focus:** Deep learning, NLP, model experimentation  
+
+Repository: https://github.com/gebriell/kaggle_transformer
+
+---
+
+## Technical Skills
+
+**Machine Learning / AI:** PyTorch, TensorFlow/Keras, Scikit-learn, CNNs, Transfer Learning, MONAI, YOLO, OpenCV  
+**GenAI / LLMs:** LangChain, LlamaIndex, Hugging Face, OpenAI API, RAG, FAISS, Chroma, Prompt Engineering  
+**Engineering:** Python, TypeScript, JavaScript, C++, SQL, Flask, React, Next.js, Node.js, PostgreSQL  
+**Tools:** Docker, Git, Linux, Bash, MATLAB, Raspberry Pi, Gazebo, DroneKit  
+**Data Science:** pandas, NumPy, SciPy, Matplotlib, statistical modeling, data preprocessing, evaluation metrics  
+
+---
+
+## Experience Highlights
+
+- **AI Team Lead — RevSolz Corp.**  
+  Led data science interns and built ML pipelines for oil-industry operational data.
+
+- **Graduate Thesis — SFSU**  
+  Working on AI-assisted medial-axis modeling and 3D deep learning for medical imaging.
+
+- **Teaching Assistant — Theory of Computing, SFSU**  
+  Supported 30+ students with Python setup, lab support, grading, and course materials.
+
+---
+
+## Contact
+
+- Portfolio: https://rustam-site.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/russmukhtar/
+- Email: rmukhtarov@sfsu.edu
