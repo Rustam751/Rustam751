@@ -23,6 +23,7 @@ Production-style retrieval-augmented generation system for medical, legal, and a
 - **Focus:** RAG, grounded generation, hallucination guards, LLM evaluation, API engineering
 - **Results:** 0.87 retrieval hit rate, 100% abstention on unanswerable questions, and zero fabricated facts on a 20-question benchmark — with documented failure analysis of the two retrieval misses
 - **Solo project:** designed, built, tested (29 offline tests + CI), evaluated, and deployed end-to-end
+
 Repository: https://github.com/Rustam751/rag-document-assistant
  
 ---
@@ -34,6 +35,7 @@ Deep learning pipeline for classifying Alzheimer's disease stages from Amyloid P
 - **Focus:** Medical imaging, CNNs, transfer learning, preprocessing, evaluation
 - **Results:** VGG16 and InceptionV3 achieved above 95% test accuracy in the project setup
 - **My contribution:** Model experimentation, preprocessing workflow, evaluation, and result analysis
+
 Repository: https://github.com/Abdoul1996/Alzheimer_Classification
  
 ---
@@ -44,6 +46,7 @@ Computer vision and tracking project connected to UAV competition work, involvin
 - **Stack:** YOLO, OpenCV, object tracking, UAV systems, simulation/field testing
 - **Focus:** Real-time computer vision, drone detection, robotics integration
 - **My contribution:** UAV detection workflow, testing, model/inference support, and competition implementation
+
 Repository: https://github.com/keremtatlici/dronehunter_teknofest2023
  
 ---
@@ -54,6 +57,7 @@ Peer-to-peer driveway rental platform where homeowners can list unused driveway 
 - **Stack:** Next.js, React, Tailwind, PostgreSQL, UX research
 - **Focus:** Product engineering, full-stack prototype, HCI, user flows
 - **My contribution:** Product concept, UI/UX flows, web prototype, research pages, and driver/homeowner experience design
+
 Repository: https://github.com/Rustam751/driveshare-app
 Live Demo: https://driveshare-app.vercel.app/
  
@@ -64,6 +68,7 @@ Image-processing pipeline for detecting tennis court lines from match images.
  
 - **Stack:** Python, OpenCV, image processing
 - **Focus:** Line detection, preprocessing, evaluation, computer vision fundamentals
+
 Repository: https://github.com/mucahitkalebasi/tennis-line-detection-img-processing
  
 ---
