@@ -94,6 +94,6 @@ Repository: https://github.com/mucahitkalebasi/tennis-line-detection-img-process
  
 ## Contact
  
-- Portfolio: https://rustam-site.vercel.app/
+- Portfolio: https://rustam-site-lemon.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/russmukhtar/
 - Email: rmukhtarov@sfsu.edu
