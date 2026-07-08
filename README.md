@@ -26,6 +26,8 @@ Production-style retrieval-augmented generation system for medical, legal, and a
 
 Repository: https://github.com/Rustam751/rag-document-assistant
 
+---
+
 ### Alzheimer's PET Classification
 Deep learning pipeline for classifying Alzheimer's disease stages from Amyloid PET images using transfer learning.
 
