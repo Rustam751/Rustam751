@@ -27,6 +27,18 @@ Production-style retrieval-augmented generation system for medical, legal, and a
 Repository: https://github.com/Rustam751/rag-document-assistant
  
 ---
+
+### Medical Image Disease Classifier API
+Production-style medical image classification service that extends my Alzheimer's PET research into a deployable ML system. It accepts a scan image over HTTP and returns a predicted class with a full probability breakdown, input validation, clear error handling, and a Grad-CAM explanation of where the model looked.
+
+- **Stack:** Python, FastAPI, PyTorch, Streamlit, Docker, GitHub Actions
+- **Focus:** ML engineering, model serving, reproducibility, input validation, explainability (Grad-CAM), preventing train/serve skew
+- **Results:** REST API + Streamlit demo, 20 tests with CI, Dockerized runtime, and a ~0.4 MB self-describing checkpoint that serves on clone. Reaches 94.1% accuracy / 0.94 macro-F1 on a reproducible 3-class benchmark — trained on a clearly-labeled synthetic dataset (non-clinical) so results reproduce without restricted data, with real datasets plugging in via the same ImageFolder interface
+- **Solo project:** designed, built, tested, evaluated, containerized, and documented end-to-end
+
+Repository: https://github.com/Rustam751/medical-image-classifier
+
+---
  
 ### Alzheimer's PET Classification
 Deep learning pipeline for classifying Alzheimer's disease stages from Amyloid PET images using transfer learning.
